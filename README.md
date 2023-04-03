@@ -10,6 +10,7 @@ Implemented both circuits using the cirq library
 Implemented and compared GCN and GAT models for the classification of quarks and gluons using the energyflow dataset
 
 ### Task 3 :white_check_mark:
+Commented on Quantum Computing and the various libraries used to develop such systems
 
 ### Task 5 :white_check_mark:
 Implemented a simple QGNN
